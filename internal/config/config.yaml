@@ -1,0 +1,8 @@
+ServerPort: 8083
+
+DB:
+  Host: localhost
+  Port: 5437
+  Username: postgres
+  Password: pass
+  Name: coffee
